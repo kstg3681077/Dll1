@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Dll1.cpp
+c:\users\administrator\desktop\dll1\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(64): warning C4101: “us”: 未引用的局部变量
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(168): warning C4244: “初始化”: 从“int64_t”转换到“double”，可能丢失数据
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(199): warning C4244: “初始化”: 从“int64_t”转换到“double”，可能丢失数据
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(530): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(534): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(699): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\dll1\dll1\dll1.cpp(703): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  dllmain.cpp
+    正在创建库 C:\Users\Administrator\Desktop\Dll1\x64\Release\Dll1.lib 和对象 C:\Users\Administrator\Desktop\Dll1\x64\Release\Dll1.exp
+  正在生成代码
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll1.vcxproj -> C:\Users\Administrator\Desktop\Dll1\x64\Release\Dll1.dll
